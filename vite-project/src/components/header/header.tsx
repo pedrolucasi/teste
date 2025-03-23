@@ -1,5 +1,6 @@
 import React from 'react';
-import styles from './header/Header.module.css';
+import styles from '../header/header.module.css';
+
 
 const Header: React.FC = () => {
     return (

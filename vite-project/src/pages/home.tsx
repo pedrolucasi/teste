@@ -1,8 +1,10 @@
 import React, { useEffect, useState } from 'react';
-import Header from './components/header/header';
-import Card from './components/Card/Card';
-import Footer from './components/Footer/Footer';
-import styles from './Home.module.css';
+import Header from '../components/header/header';
+import Card from '../components/card/card';
+import Footer from '../components/footer/footer';
+import styles from './home.module.css';
+/// importar imagens
+
 
 
 const Home: React.FC = () => {
